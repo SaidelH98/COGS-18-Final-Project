@@ -1,0 +1,2 @@
+# All csv files are from https://www.basketball-reference.com/leagues/NBA_2018.html#team-stats-base::none
+# Replace 2018 with a different year to get the team stats for that year.
